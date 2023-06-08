@@ -8,4 +8,4 @@ year: "2019-2020"
 experience: true
 ---
 
-J'ai participé à la 3ème promotion du programme des <a href="https://eig.etalab.gouv.fr/" target="_blank">"Entrepreneur d'Intérêt Général"</a> sur le projet <a href="https://eig.etalab.gouv.fr/defis/plume/" target="_blank">Plume</a> project. J'ai ainsi accompagné une administration dans sa transition numérique.
+J'ai participé à la 3ème promotion du programme des <a href="https://eig.etalab.gouv.fr/" target="_blank">"Entrepreneurs d'Intérêt Général"</a> sur le projet <a href="https://eig.etalab.gouv.fr/defis/plume/" target="_blank">Plume</a>. J'ai ainsi accompagné la Cour dans sa transition numérique.
