@@ -1,0 +1,14 @@
+version: '3'
+
+tasks:
+  default:
+    cmds:
+      - task --list
+  setup:
+    desc: install all the required dependencies
+    cmds:
+      - nix-shell -p bundler -p bundix --run 'bundler update; bundler lock; bundler package --no-install --path vendor; bundix; rm -rf vendor'
+  serve:
+    desc: serve the cv locally to update it
+    cmds:
+      - nix-shell --pure --command "jekyll serve"

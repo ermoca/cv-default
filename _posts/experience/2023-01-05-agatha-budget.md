@@ -8,4 +8,4 @@ year: "2020-aujourd'hui"
 experience: true
 ---
 
-J'ai créé mon propre <a href="https://agatha-budget.fr/" target="_blank">logiciel de gestion de budget</a> et suis devenue la référente départementale de l'accompagnement budgétaire pour les Restos du Coeur. Découvrez le projet grâce au podcast <a href="https://podcasts.apple.com/us/podcast/8-erica-delagnier-mieux-g%C3%A9rer-son-budget-pour-r%C3%A9aliser/id1675231225?i=1000611698834" target="_blank">"Et si nos actions"</a>.
+J'ai créé un <a href="https://agatha-budget.fr/" target="_blank">logiciel de gestion de budget open source</a> et suis devenue la référente départementale de l'accompagnement budgétaire pour les Restos du Coeur. Découvrez le projet grâce au podcast <a href="https://podcasts.apple.com/us/podcast/8-erica-delagnier-mieux-g%C3%A9rer-son-budget-pour-r%C3%A9aliser/id1675231225?i=1000611698834" target="_blank">"Et si nos actions"</a>. Vous pouvez aussi jeter un oeil à la <a href="https://docagatha-budget.fr/" target="_blank">documentation</a>.

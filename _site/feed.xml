@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erica Delagnier</title>
-    <description>Software Craftwoman. Lingq enthusiast</description>
+    <description>Software Craftwoman</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Jun 2023 12:48:24 +0200</pubDate>
-    <lastBuildDate>Wed, 07 Jun 2023 12:48:24 +0200</lastBuildDate>
-    <generator>Jekyll v3.9.1</generator>
+    <pubDate>Mon, 20 Oct 2025 15:58:08 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 15:58:08 +0200</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
     
       <item>
-        <title>Why we should work together</title>
-        <description>&lt;p&gt;Ma plus grande force est ma polyvalence : de l’UX design au support utilisateur, de l’administration systeme au responsive UI, de l’éternelle apprenante à l’enseignante expérimentée.&lt;/p&gt;
+        <title>Qui suis-je ?</title>
+        <description>&lt;p&gt;Ma plus grande force est ma polyvalence : de l’UX design au support utilisateur, de l’administration système au responsive UI, de l’éternelle apprenante à l’enseignante expérimentée.&lt;/p&gt;
 
-&lt;p&gt;Je recherche des projets engagés pour contribuer à l’amélioration de notre société&lt;/p&gt;
+&lt;p&gt;Je recherche des projets engagés pour contribuer à l’amélioration de notre société.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 May 2023 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/cover-letter/</link>
@@ -23,8 +23,35 @@
       </item>
     
       <item>
-        <title>Où j'ai accompagné des particuliers pour apaiser leur relation à l'argent</title>
-        <description>&lt;p&gt;J’ai créé mon propre &lt;a href=&quot;https://agatha-budget.fr/&quot; target=&quot;_blank&quot;&gt;logiciel de gestion de budget&lt;/a&gt; et suis devenue la référente départementale de l’accompagnement budgetaire pour les Restos du Coeur. Découvrez le projet grâce au podcast &lt;a href=&quot;https://podcasts.apple.com/us/podcast/8-erica-delagnier-mieux-g%C3%A9rer-son-budget-pour-r%C3%A9aliser/id1675231225?i=1000611698834&quot; target=&quot;_blank&quot;&gt;Et si nos actions”&lt;/a&gt;.&lt;/p&gt;
+        <title>Où j&apos;ai accompagné des particuliers pour apaiser leur relation à l&apos;argent</title>
+        <description>&lt;p&gt;Je fais aujourd’hui partie de la cooperative &lt;a href=&quot;https://agatha-budget.fr/&quot; target=&quot;_blank&quot;&gt;multi&lt;/a&gt;. Ensemble nous contribuons au développement des communs numériques. De la conception du produit à la mise en production nous apportons l’expertise, l’agilité et l’engagement d’une équipe multidisciplinaire, pour construire avec vous des projets numériques d’intérêt général.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jan 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/multi/</link>
+        <guid isPermaLink="true">http://localhost:4000/multi/</guid>
+        
+        
+        <category>UX</category>
+        
+        <category>Architecture</category>
+        
+        <category>python</category>
+        
+        <category>VueJs</category>
+        
+        <category>Communication</category>
+        
+        <category>Travail d&apos;équipe</category>
+        
+        <category>Recrutement et formations</category>
+        
+        <category>Gestion de projet</category>
+        
+      </item>
+    
+      <item>
+        <title>Où j&apos;ai accompagné des particuliers pour apaiser leur relation à l&apos;argent</title>
+        <description>&lt;p&gt;J’ai créé un &lt;a href=&quot;https://agatha-budget.fr/&quot; target=&quot;_blank&quot;&gt;logiciel de gestion de budget open source&lt;/a&gt; et suis devenue la référente départementale de l’accompagnement budgétaire pour les Restos du Coeur. Découvrez le projet grâce au podcast &lt;a href=&quot;https://podcasts.apple.com/us/podcast/8-erica-delagnier-mieux-g%C3%A9rer-son-budget-pour-r%C3%A9aliser/id1675231225?i=1000611698834&quot; target=&quot;_blank&quot;&gt;“Et si nos actions”&lt;/a&gt;. Vous pouvez aussi jeter un oeil à la &lt;a href=&quot;https://docagatha-budget.fr/&quot; target=&quot;_blank&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Jan 2023 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/agatha-budget/</link>
@@ -41,7 +68,7 @@
         
         <category>UI Atomic Design</category>
         
-        <category>Administration Systeme</category>
+        <category>Administration Système</category>
         
         <category>Marketing</category>
         
@@ -49,7 +76,7 @@
         
         <category>Communication</category>
         
-        <category>Travail d'équipe</category>
+        <category>Travail d&apos;équipe</category>
         
         <category>Recrutement et formations</category>
         
@@ -60,8 +87,8 @@
       </item>
     
       <item>
-        <title>Où j'ai initié un projet innovant au sein de la Cour des Comptes</title>
-        <description>&lt;p&gt;J’ai participé à la 3ème saison du programme des &lt;a href=&quot;https://eig.etalab.gouv.fr/&quot; target=&quot;_blank&quot;&gt;“Entrepreneur d’Intérêt Général”&lt;/a&gt; sur le projet &lt;a href=&quot;https://eig.etalab.gouv.fr/defis/plume/&quot; target=&quot;_blank&quot;&gt;Plume&lt;/a&gt; project. J’ai ainsi accompagné une administration dans sa transition numérique.&lt;/p&gt;
+        <title>Où j&apos;ai initié un projet innovant au sein de la Cour des Comptes</title>
+        <description>&lt;p&gt;J’ai participé à la 3ème promotion du programme des &lt;a href=&quot;https://eig.etalab.gouv.fr/&quot; target=&quot;_blank&quot;&gt;“Entrepreneurs d’Intérêt Général”&lt;/a&gt; sur le projet &lt;a href=&quot;https://eig.etalab.gouv.fr/defis/plume/&quot; target=&quot;_blank&quot;&gt;Plume&lt;/a&gt;. J’ai ainsi accompagné la Cour dans sa transition numérique.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Jan 2023 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/court-of-audit/</link>
@@ -78,7 +105,7 @@
         
         <category>Support et formation utilisateur</category>
         
-        <category>Travail d'équipe</category>
+        <category>Travail d&apos;équipe</category>
         
         <category>Recrutement et formations</category>
         
@@ -89,8 +116,8 @@
       </item>
     
       <item>
-        <title>Où j'ai enseigné les bonnes pratiques de programmation à l'université</title>
-        <description>&lt;p&gt;À &lt;a href=&quot;https://www.iut-valence.fr/nos-formations/licences-professionnelles/lp-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-parcours-codage-d-applications-et-de-systemes-informatiques-repartis-casir--249741.kjsp&quot; target=&quot;_blank&quot;&gt;l’université Grenoble-Alpes&lt;/a&gt;, J’ai créé, enseigné et évalué un cours pour des étudiants de L3 sur les gestionnaires de version, les tests unitaires, la relecture de code et la propreté du code&lt;/p&gt;
+        <title>Où j&apos;ai enseigné les bonnes pratiques de programmation à l&apos;université</title>
+        <description>&lt;p&gt;À &lt;a href=&quot;https://www.iut-valence.fr/nos-formations/licences-professionnelles/lp-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-parcours-codage-d-applications-et-de-systemes-informatiques-repartis-casir--249741.kjsp&quot; target=&quot;_blank&quot;&gt;l’université Grenoble-Alpes&lt;/a&gt;, j’ai créé, enseigné et évalué un cours pour des étudiants de L3 sur les gestionnaires de versions, les tests unitaires, la relecture de code et la propreté du code.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jan 2023 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/university/</link>
@@ -107,7 +134,7 @@
         
         <category>Enseignement</category>
         
-        <category>Formalisation d'expérience pratique</category>
+        <category>Formalisation d&apos;expérience pratique</category>
         
         <category>Pédagogie</category>
         
@@ -116,8 +143,8 @@
       </item>
     
       <item>
-        <title>Où j'ai créé un logiciel pour améliorer l'accès aux articles de recherche</title>
-        <description>&lt;p&gt;Chez &lt;a href=&quot;https://bibliotheques.decalog.net/&quot; target=&quot;_blank&quot;&gt;Decalog&lt;/a&gt;, j’ai créé une &lt;a href=&quot;https://actualitte.com/article/17101/acteurs-numeriques/un-nouvel-outil-de-gestion-des-ressources-numeriques-pour-l-inist-cnrs&quot; target=&quot;_blank&quot;&gt;application web&lt;/a&gt; conçue pour permettre aux université et bibliothèque de gérer leur abonnements complexes à des revues de recherche.&lt;/p&gt;
+        <title>Où j&apos;ai créé un logiciel pour améliorer l&apos;accès aux articles de recherche</title>
+        <description>&lt;p&gt;Chez &lt;a href=&quot;https://bibliotheques.decalog.net/&quot; target=&quot;_blank&quot;&gt;Decalog&lt;/a&gt;, j’ai créé une &lt;a href=&quot;https://actualitte.com/article/17101/acteurs-numeriques/un-nouvel-outil-de-gestion-des-ressources-numeriques-pour-l-inist-cnrs&quot; target=&quot;_blank&quot;&gt;application web&lt;/a&gt; conçue pour permettre aux universités et bibliothèques de gérer leur abonnements complexes à des revues de recherche.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jan 2023 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/decalog/</link>
@@ -136,7 +163,7 @@
         
         <category>Support et formation utilisateur</category>
         
-        <category>Travail d'équipe</category>
+        <category>Travail d&apos;équipe</category>
         
         <category>Recrutement et formations</category>
         
@@ -145,8 +172,8 @@
       </item>
     
       <item>
-        <title>Où j'ai aidé des personnes agées à continuer de vivre sereinement chez elles</title>
-        <description>&lt;p&gt;Chez &lt;a href=&quot;https://www.telegrafik.eu/&quot; target=&quot;_blank&quot;&gt;Telegrafik&lt;/a&gt;, j’ai crée la première version de leur logiciel en utilisant des capteurs de mouvements pour détecter les incidents et prévenir la famille si nécessaire&lt;/p&gt;
+        <title>Où j&apos;ai aidé des personnes agées à continuer de vivre sereinement chez elles</title>
+        <description>&lt;p&gt;Chez &lt;a href=&quot;https://www.telegrafik.eu/&quot; target=&quot;_blank&quot;&gt;Telegrafik&lt;/a&gt;, j’ai créé la première version de leur logiciel en utilisant des capteurs de mouvements pour détecter les incidents et prévenir la famille si nécessaire.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/otonome/</link>
@@ -162,8 +189,8 @@
       </item>
     
       <item>
-        <title>J'ai animé le groupe Paris - Software Craftmanship</title>
-        <description>&lt;p&gt;En 2019-2020, j’ai rejoins et suis devenue l’une des quatres animateurices d’un &lt;a href=&quot;https://www.meetup.com/paris-software-craftsmanship/&quot; target=&quot;_blank&quot;&gt;groupe meetup&lt;/a&gt; qui se réunit une fois par mois pour échanger sur les outils, méthodes et bonnes pratiques afin de continuer à progresser en tant que professionnels.&lt;/p&gt;
+        <title>J&apos;ai animé le groupe Paris - Software Craftmanship</title>
+        <description>&lt;p&gt;En 2019-2020, j’ai rejoint le groupe &lt;a href=&quot;https://www.meetup.com/paris-software-craftsmanship/&quot; target=&quot;_blank&quot;&gt;Paris - Software Craftmanship&lt;/a&gt; et en suis devenue l’un des quatres animateurs. Nous nous réunissions une fois par mois pour échanger sur les outils, méthodes et bonnes pratiques afin de continuer à progresser en tant que professionnels.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/meetup/</link>
@@ -173,8 +200,8 @@
       </item>
     
       <item>
-        <title>J'ai lu et continue de lire</title>
-        <description>&lt;p&gt;Autodidacte depuis la fin de mes études, je lis régulièrement des livres liés au développement logiciel ou aux sujets et contexte des logiciles sur lesquels je travaille : voir ma&lt;a href=&quot;https://www.goodreads.com/review/list/166121524?order=d&amp;amp;sort=rating&quot; target=&quot;_blank&quot;&gt;bibliothèque&lt;/a&gt;&lt;/p&gt;
+        <title>Je lis encore et toujours</title>
+        <description>&lt;p&gt;Autodidacte depuis la fin de mes études, je lis régulièrement des livres liés au développement logiciel ou aux sujets et contexte des logiciels sur lesquels je travaille : voir ma &lt;a href=&quot;https://www.goodreads.com/review/list/166121524?order=d&amp;amp;sort=rating&quot; target=&quot;_blank&quot;&gt;bibliothèque&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Jan 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/reading/</link>
@@ -184,23 +211,12 @@
       </item>
     
       <item>
-        <title>J'ai étudié en ligne</title>
-        <description>&lt;p&gt;Grâce aux MOOCS, j’ai pu continuer à étudier&lt;a href=&quot;https://www.coursera.org/specializations/interaction-design&quot; target=&quot;_blank&quot;&gt;l’UX Design&lt;/a&gt;, &lt;a href=&quot;https://www.coursera.org/learn/philosophy?&quot; target=&quot;_blank&quot;&gt;la philosophie&lt;/a&gt; et &lt;a href=&quot;https://www.coursera.org/learn/human-language?&quot; target=&quot;_blank&quot;&gt;la linguistique&lt;/a&gt;&lt;/p&gt;
+        <title>J&apos;étudie en ligne</title>
+        <description>&lt;p&gt;Grâce aux MOOCS, j’ai pu continuer à étudier &lt;a href=&quot;https://www.coursera.org/specializations/interaction-design&quot; target=&quot;_blank&quot;&gt;l’UX Design&lt;/a&gt;, &lt;a href=&quot;https://www.coursera.org/learn/philosophy?&quot; target=&quot;_blank&quot;&gt;la philosophie&lt;/a&gt; et &lt;a href=&quot;https://www.coursera.org/learn/human-language?&quot; target=&quot;_blank&quot;&gt;la linguistique&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Jan 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/mooc/</link>
         <guid isPermaLink="true">http://localhost:4000/mooc/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Je suis Ingénieure en Informatique et Mathématiques appliquées</title>
-        <description>&lt;p&gt;J’ai étudié à l’&lt;a href=&quot;https://fr.wikipedia.org/wiki/ENSEEIHT&quot; target=&quot;_blank&quot;&gt;ENSEEIHT&lt;/a&gt; et ai été diplomée en 2014&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/enseeiht/</link>
-        <guid isPermaLink="true">http://localhost:4000/enseeiht/</guid>
         
         
       </item>
