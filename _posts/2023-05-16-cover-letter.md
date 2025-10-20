@@ -9,6 +9,6 @@ featured: true
 hidden: true
 ---
 
-Ma plus grande force est ma polyvalence : de l'UX design au support utilisateur, de l'administration système au responsive UI, de l'éternelle apprenante à l'enseignante expérimentée.
+Au sein de la coopérative multi, je contribue à des projets engagés pour l'amélioration de nos services publics
 
-Je recherche des projets engagés pour contribuer à l'amélioration de notre société.
+Ma plus grande force est ma polyvalence : de l'UX design au support utilisateur, de l'administration système au responsive UI, de l'éternelle apprenante à l'enseignante expérimentée.
