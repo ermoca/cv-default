@@ -2,8 +2,8 @@
 name: "Erica Delagnier"
 title: "Erica Delagnier"
 description: "Software Craftwoman"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.webp'
+favicon: 'assets/images/logo.webp'
 baseurl:
 include: ["_pages"]
 permalink: /:title/

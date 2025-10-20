@@ -3,7 +3,7 @@ layout: post
 title:  "Où j'ai initié un projet innovant au sein de la Cour des Comptes"
 author: erica
 categories: [ UX, NodeJs, React, Legacy code, Support et formation utilisateur, Travail d'équipe, Recrutement et formations, Gestion de projet, Communication ]
-image: assets/images/french-audit.jpg
+image: assets/images/french-audit.webp
 year: "2019-2020"
 experience: true
 ---

@@ -3,8 +3,8 @@ layout: post
 title:  "Qui suis-je ?"
 author: erica
 categories: []
-image1: assets/images/illu.jpg
-image2: assets/images/portrait.jpeg
+image1: assets/images/illu.webp
+image2: assets/images/portrait.webp
 featured: true
 hidden: true
 ---

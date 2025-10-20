@@ -3,7 +3,7 @@ layout: post
 title:  "Où j'ai accompagné des particuliers pour apaiser leur relation à l'argent"
 author: erica
 categories: [ UX, Architecture, Kotlin, VueJs, UI Atomic Design, Administration Système, Marketing, Éducation financière, Communication,  Travail d'équipe, Recrutement et formations, Gestion de projet, Communication, Écoute active et accompagnement individuel]
-image: assets/images/logo-agatha.png
+image: assets/images/logo-agatha.webp
 year: "2020-aujourd'hui"
 experience: true
 ---
