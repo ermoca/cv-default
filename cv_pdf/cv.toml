@@ -11,13 +11,6 @@ hobbies = ["Lecture, Linguistique, Kung-Fu, Histoire et Histoire de l'art, Danse
 
 summary = "Au sein de la coopérative multi, je contribue à des projets engagés pour l’amélioration de nos services publics. Ma plus grande force est ma polyvalence : de l’UX design au support utilisateur, de l’administration système au responsive UI, de l’éternelle apprenante à l’enseignante expérimentée."
 
-[[cv.profiles]]
-network  = "Gitlab"
-username = "edelagnier"
-
-[[cv.profiles]]
-network  = "GitHub"
-username = "ermoca"
 
 [[cv.skills]]
 group = "Web"
