@@ -12,3 +12,7 @@ tasks:
     desc: serve the cv locally to update it
     cmds:
       - nix-shell --pure --command "jekyll serve"
+  compile_cv:
+    desc: compile typst cv 
+    cmds: 
+      - typst compile cv_pdf/cv.typ assets/cv-erica-delagnier.pdf

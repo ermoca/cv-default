@@ -1,0 +1,108 @@
+#:schema https://raw.githubusercontent.com/xrsl/nabcv/v0.1.0/schema/schema.json
+
+[cv]
+name     = "Erica Delagnier"
+headline = "Créatrice de Logiciel"
+keywords = ["software craftwoman", "architecte", "lead tech", "conceptrice UX"]
+email    = "erica.delagnier@multi.coop"
+phone    = "+7 78 66 37 00"
+
+hobbies = ["Lecture, Linguistique, Kung-Fu, Histoire et Histoire de l'art, Danse, Jeux de société"]
+
+summary = "Au sein de la coopérative multi, je contribue à des projets engagés pour l’amélioration de nos services publics. Ma plus grande force est ma polyvalence : de l’UX design au support utilisateur, de l’administration système au responsive UI, de l’éternelle apprenante à l’enseignante expérimentée."
+
+[[cv.profiles]]
+network  = "Gitlab"
+username = "edelagnier"
+
+[[cv.profiles]]
+network  = "GitHub"
+username = "ermoca"
+
+[[cv.skills]]
+group = "Web"
+items = "Kotlin, Java, PHP, NodeJS, Python"
+
+[[cv.skills]]
+group = "Langages de programmation"
+items = "Typescript, React, Vue, OpenAPI"
+
+[[cv.skills]]
+group = "Outils"
+items = "Figma, Grist, Typst"
+
+[[cv.skills]]
+group = "Serveurs"
+items = "GNU/Linux, Nixos"
+
+[[cv.skills]]
+group = "Data"
+items = "Postgresql, Grist, Semantic Web"
+
+[[cv.skills]]
+group = "Méthodes"
+items = "Agile/Software craftmanship, UX Design, UI Atomic Design, Peer review, Test Driven Development, Hexagonal architecture"
+
+[[cv.skills]]
+group = "Non technique"
+items = "Gestion de projet,  Enseignement, Gestion RH, Formation et support utilisateur"
+
+
+[[cv.skills]]
+group = "Languages"
+items = ["Anglais (courant)", "Chinois (~HSK3)", "Allemand/Japonais/Russe (ancien)"]
+
+[[cv.experience]]
+company    = "Où je coopére pour promouvoir l'open source"
+start_date = "2023"
+end_date   = "Aujourd'hui"
+highlights = [
+  "Je suis directrice générale de la coopérative multi. Nous sommes specialisés en accompagnement des services publics dans la création de prototypes et l’exploitation de données. Au sein du collectif, je tiens le rôle d’experte technique mais aussi de coordinatrice de formations internes et responsable RH.",
+]
+
+[[cv.experience]]
+company    = "Où je permet à des particuliers pour apaiser leur relation à l'argent"
+start_date = "2020"
+end_date   = "aujourd'hui"
+highlights = [
+  "J’ai créé le logiciel open source Agatha-Budget et suis devenue la référente départementale de l’accompagnement budgétaire pour les Restos du Coeur",
+]
+
+[[cv.experience]]
+company    = "Où j'ai initié un projet innovant au sein de la Cour des Comptes"
+start_date = "2019"
+end_date   = "2020"
+highlights = [
+  "J’ai participé à la 3ème promotion du programme des “Entrepreneurs d’Intérêt Général” sur le projet Plume. J’ai ainsi accompagné la Cour dans sa transition numérique.",
+]
+
+[[cv.experience]]
+company    = "Où j'ai enseigné les bonnes pratiques de programmation à l'université"
+start_date = "2016"
+end_date   = "2018"
+highlights = [
+  "À l’université Grenoble-Alpes, j’ai créé, enseigné et évalué un cours pour des étudiants de L3 sur les gestionnaires de versions, les tests unitaires, la relecture de code et la propreté du code.",
+]
+
+[[cv.experience]]
+company    = "Où j'ai créé un logiciel pour améliorer l'accès aux articles de recherche"
+start_date = "2016"
+end_date   = "2018"
+highlights = [
+  "Chez Decalog, j’ai créé une application web conçue pour permettre aux universités et bibliothèques de gérer leur abonnements complexes à des revues de recherche."
+]
+
+[[cv.experience]]
+company    = "Où j'ai aidé des personnes agées à continuer de vivre sereinement chez elles"
+start_date = "2015"
+end_date   = "2015"
+highlights = [
+  "Chez Telegrafik, j’ai créé la première version de leur logiciel en utilisant des capteurs de mouvements pour détecter les incidents et prévenir la famille si nécessaire."
+]
+
+
+[[cv.education]]
+company    = "Ingénieure en Informatique et Mathématiques appliquées"
+summary    = "ENSEEIHT"
+start_date = "2012"
+end_date   = "2014"
