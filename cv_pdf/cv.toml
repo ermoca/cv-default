@@ -13,11 +13,11 @@ summary = "Au sein de la coopérative multi, je contribue à des projets engagé
 
 
 [[cv.skills]]
-group = "Web"
-items = "Kotlin, Java, PHP, NodeJS, Python"
+group = "Langages de programmation"
+items = "Python, Kotlin, Java, PHP, NodeJS, Catala, Rockstar"
 
 [[cv.skills]]
-group = "Langages de programmation"
+group = "Web"
 items = "Typescript, React, Vue, OpenAPI"
 
 [[cv.skills]]
